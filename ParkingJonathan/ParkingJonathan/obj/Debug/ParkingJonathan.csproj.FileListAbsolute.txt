@@ -1,0 +1,31 @@
+C:\Users\Jonathan\source\repos\ParkingJonathan\ParkingJonathan\bin\Debug\ParkingJonathan.exe.config
+C:\Users\Jonathan\source\repos\ParkingJonathan\ParkingJonathan\bin\Debug\ParkingJonathan.exe
+C:\Users\Jonathan\source\repos\ParkingJonathan\ParkingJonathan\bin\Debug\ParkingJonathan.pdb
+C:\Users\Jonathan\source\repos\ParkingJonathan\ParkingJonathan\obj\Debug\ParkingJonathan.csprojAssemblyReference.cache
+C:\Users\Jonathan\source\repos\ParkingJonathan\ParkingJonathan\obj\Debug\ParkingJonathan.exe
+C:\Users\Jonathan\source\repos\ParkingJonathan\ParkingJonathan\obj\Debug\ParkingJonathan.pdb
+C:\Users\Handelsakademin\Desktop\ParkingJonathan\ParkingJonathan\bin\Debug\ParkingJonathan.exe.config
+C:\Users\Handelsakademin\Desktop\ParkingJonathan\ParkingJonathan\bin\Debug\ParkingJonathan.exe
+C:\Users\Handelsakademin\Desktop\ParkingJonathan\ParkingJonathan\bin\Debug\ParkingJonathan.pdb
+C:\Users\Handelsakademin\Desktop\ParkingJonathan\ParkingJonathan\obj\Debug\ParkingJonathan.csprojAssemblyReference.cache
+C:\Users\Handelsakademin\Desktop\ParkingJonathan\ParkingJonathan\obj\Debug\ParkingJonathan.exe
+C:\Users\Handelsakademin\Desktop\ParkingJonathan\ParkingJonathan\obj\Debug\ParkingJonathan.pdb
+C:\Users\Jonathan\Desktop\ParkingJonathan\ParkingJonathan\bin\Debug\ParkingJonathan.exe.config
+C:\Users\Jonathan\Desktop\ParkingJonathan\ParkingJonathan\bin\Debug\ParkingJonathan.exe
+C:\Users\Jonathan\Desktop\ParkingJonathan\ParkingJonathan\bin\Debug\ParkingJonathan.pdb
+C:\Users\Jonathan\Desktop\ParkingJonathan\ParkingJonathan\obj\Debug\ParkingJonathan.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\ParkingJonathan\ParkingJonathan\obj\Debug\ParkingJonathan.exe
+C:\Users\Jonathan\Desktop\ParkingJonathan\ParkingJonathan\obj\Debug\ParkingJonathan.pdb
+C:\Users\Jonathan\Desktop\ParkingJonathan 2\ParkingJonathan\bin\Debug\ParkingJonathan.exe.config
+C:\Users\Jonathan\Desktop\ParkingJonathan 2\ParkingJonathan\bin\Debug\ParkingJonathan.exe
+C:\Users\Jonathan\Desktop\ParkingJonathan 2\ParkingJonathan\bin\Debug\ParkingJonathan.pdb
+C:\Users\Jonathan\Desktop\ParkingJonathan 2\ParkingJonathan\obj\Debug\ParkingJonathan.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\ParkingJonathan 2\ParkingJonathan\obj\Debug\ParkingJonathan.exe
+C:\Users\Jonathan\Desktop\ParkingJonathan 2\ParkingJonathan\obj\Debug\ParkingJonathan.pdb
+C:\Users\Jonathan\Desktop\ParkingJonathan\ParkingJonathan\ParkingJonathan\bin\Debug\ParkingJonathan.exe.config
+C:\Users\Jonathan\Desktop\ParkingJonathan\ParkingJonathan\ParkingJonathan\bin\Debug\ParkingJonathan.exe
+C:\Users\Jonathan\Desktop\ParkingJonathan\ParkingJonathan\ParkingJonathan\bin\Debug\ParkingJonathan.pdb
+C:\Users\Jonathan\Desktop\ParkingJonathan\ParkingJonathan\ParkingJonathan\obj\Debug\ParkingJonathan.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\ParkingJonathan\ParkingJonathan\ParkingJonathan\obj\Debug\ParkingJonathan.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\ParkingJonathan\ParkingJonathan\ParkingJonathan\obj\Debug\ParkingJonathan.exe
+C:\Users\Jonathan\Desktop\ParkingJonathan\ParkingJonathan\ParkingJonathan\obj\Debug\ParkingJonathan.pdb
